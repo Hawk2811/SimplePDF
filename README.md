@@ -1,2 +1,5 @@
 # SimplePDF
-Simple PDF Reader 
+
+Leitor de PDF Simples e Leve
+
+Feito por Hawk
