@@ -103,7 +103,7 @@ public class Main extends javax.swing.JFrame {
 
     private void jMenu2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenu2MouseClicked
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(null,"SimplePDF\n\nLeitor de PDFs Simples e Leve","Sobre o App",JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(null,"SimplePDF 1.1\n\nLeitor de PDFs Simples e Leve","Sobre o App",JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_jMenu2MouseClicked
 
     /**
